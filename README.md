@@ -38,3 +38,6 @@ The following libraries were used in the project:
 
 This project was developed using PyCharm 2022.1 (Professional Edition).
 
+You can find the accompanying blog post in fulfillment of this submission at https://medium.com/@bthodla/recommending-mutual-funds-73129d8853c5.
+
+
