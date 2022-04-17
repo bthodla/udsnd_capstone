@@ -5,7 +5,7 @@ This project was developed in fulfillment of my Udacity Data Science Nanodegree 
 
 Although I had several choices of problem spaces to pick from that Udacity provided, I decided to bring one of my own problems to solve using this opportunity.
 
-InvestSure is a fictional investment company that manages the retirement accounts of employees of its customers. It gets a dump of many data elements in CSV and JSON formats from transactional and external systems. It wants me to use this data and build a recommendation engine to suggest funds to its customers based on the funds that they already own and those that are owned by other similar customers.
+InvestSure is a fictional investment company that manages the retirement accounts of its customers. It gets a dump of many data elements in CSV and JSON formats from transactional and external systems. It wants me to use this data and build a recommendation engine to suggest funds to its customers based on the funds that they already own and those that are owned by other similar customers.
 
 The project is implemented using the following broad steps:
 
